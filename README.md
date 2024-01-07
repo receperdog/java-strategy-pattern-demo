@@ -13,8 +13,8 @@ The main objective of this repository is to provide a practical example of the S
 The code illustrates the Strategy Pattern through a `DataStorage` example, showcasing how the pattern can be used to dynamically switch between different data storage strategies (like file storage and cloud storage) at runtime.
 
 ## Article Link
-The detailed explanation and discussion of this implementation can be found in the associated LinkedIn article. 
-[Link to the article] (when the article is published, I will insert the link here.)
+The detailed explanation and discussion of this implementation can be found in the associated LinkedIn article.
+[Implementing the Strategy Pattern in Java for Advanced Code Flexibility](https://www.linkedin.com/pulse/implementing-strategy-pattern-java-advanced-code-recep-erdogan-lcmwf)
 
 ## Running the Code
 The repository contains Java source files that can be compiled and run in any standard Java environment.
